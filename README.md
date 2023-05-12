@@ -1,1 +1,1 @@
-# Python-3
+Some Python course
